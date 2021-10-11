@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linuxsmurfen
+- 👋 Hi,
 - 👀 I’m interested in Open Source, Linux and electronics
 - 🌱 I’m currently learning Kubernetes
 
